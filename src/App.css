@@ -1,0 +1,25 @@
+#header {
+    height:50pt;
+    background-color: #747880;
+    display: flex;
+    align-items: center;
+}
+
+#inner-header {
+    height: 80%;
+    color: white;
+    align-items: center;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-app-logo {
+    height: 100%;
+    object-fit: cover;
+}
+
+#inner-header h1 {
+    margin-left: 6pt;
+}
